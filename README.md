@@ -1,2 +1,2 @@
-# potionfiy
+# potionify
 Build and share potions
